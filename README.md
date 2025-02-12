@@ -13,7 +13,7 @@ Quick tool for restoring iptables rules.
 
 ---
 
-To use the program download the latest version here: https://gitlab.com/git-user-cpp/fwl/-/tree/main/releases/v0.1.0-limited-stable?ref_type=heads
+To use the program download the latest version here: https://gitlab.com/git-user-cpp/fwl/-/tree/main/releases?ref_type=heads
 
 Unpack the archive:
 ```
