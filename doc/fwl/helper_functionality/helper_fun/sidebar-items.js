@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["print_license_info","validate_root_priviliges"]};
