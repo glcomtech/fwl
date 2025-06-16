@@ -13,6 +13,8 @@ Quick tool for restoring iptables rules.
 
 ---
 
+# How to use
+
 To use the program download the latest version here: https://gitlab.com/git-user-cpp/fwl/-/tree/main/releases?ref_type=heads
 
 Unpack the archive:
@@ -46,6 +48,11 @@ If you need to use debugger:
 ```
 cargo build
 ```
+
+---
+
+# Documentation
+https://git-user-cpp.github.io/fwl/fwl/index.html
 
 ---
 
