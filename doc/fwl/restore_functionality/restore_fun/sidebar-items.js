@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["display_ipt_rules","restore_ipt_rules"]};

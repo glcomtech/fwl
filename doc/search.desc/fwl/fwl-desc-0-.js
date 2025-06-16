@@ -1,0 +1,1 @@
+searchState.loadedDescShard("fwl", 0, "Restores iptables rules from the specified file and …\nPrints the license information for the fwl crate.\nValidates whether the program is running with root …\nDisplays the current iptables firewall filter table.\nRestores iptables firewall rules from the specified file.")
