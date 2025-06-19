@@ -4,12 +4,12 @@ Quick tool for restoring iptables rules.
 
 ---
 
-![GitLab Release](https://img.shields.io/gitlab/v/release/git-user-cpp%2Ffwl?display_name=release&date_order_by=released_at&style=flat-square&logo=gitlab)
-![GitLab Stars](https://img.shields.io/gitlab/stars/git-user-cpp%2Ffwl?style=flat-square&logo=gitlab)
+![GitHub Release](https://img.shields.io/github/v/release/git-user-cpp/fwl?style=flat-square&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/git-user-cpp/fwl?style=flat-square&logo=github)
 
-![GitLab Contributors](https://img.shields.io/gitlab/contributors/git-user-cpp%2Ffwl?style=flat-square&logo=gitlab) ![GitLab Last Commit](https://img.shields.io/gitlab/last-commit/git-user-cpp%2Ffwl?style=flat-square&logo=gitlab)
+![GitHub contributors](https://img.shields.io/github/contributors/git-user-cpp/fwl?style=flat-square&logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/git-user-cpp/fwl?style=flat-square&logo=github)
 
-![GitLab License](https://img.shields.io/gitlab/license/git-user-cpp%2Ffwl?style=flat-square&logo=gitlab)
+![GitHub License](https://img.shields.io/github/license/git-user-cpp/fwl?style=flat-square&logo=github)
 
 ---
 
