@@ -4,19 +4,19 @@ Quick tool for restoring iptables rules.
 
 ---
 
-![GitHub Release](https://img.shields.io/github/v/release/git-user-cpp/fwl?style=flat-square&logo=github)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/git-user-cpp/fwl/rust.yml?style=flat-square&logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/git-user-cpp/fwl?style=flat-square&logo=github)
+![GitHub Release](https://img.shields.io/github/v/release/gnulintech/fwl?style=flat-square&logo=github)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/gnulintech/fwl/rust.yml?style=flat-square&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/gnulintech/fwl?style=flat-square&logo=github)
 
-![GitHub contributors](https://img.shields.io/github/contributors/git-user-cpp/fwl?style=flat-square&logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/git-user-cpp/fwl?style=flat-square&logo=github)
+![GitHub contributors](https://img.shields.io/github/contributors/gnulintech/fwl?style=flat-square&logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/gnulintech/fwl?style=flat-square&logo=github)
 
-![GitHub License](https://img.shields.io/github/license/git-user-cpp/fwl?style=flat-square&logo=github)
+![GitHub License](https://img.shields.io/github/license/gnulintech/fwl?style=flat-square&logo=github)
 
 ---
 
 ## How to use
 
-To use the program download the latest version here: https://github.com/git-user-cpp/fwl/tree/main/releases
+To use the program download the latest version here: https://github.com/gnulintech/fwl/tree/main/releases
 
 Unpack the archive:
 ```
@@ -53,7 +53,7 @@ cargo build
 ---
 
 ## Documentation
-https://git-user-cpp.github.io/fwl/fwl/index.html
+https://gnulintech.github.io/fwl/fwl/index.html
 
 ---
 
