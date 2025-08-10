@@ -20,6 +20,12 @@ use clap::Parser;
 use fwl::default_iptables_restore;
 
 #[derive(Parser)]
+#[command(
+     author = "Andrew Kushyk",
+     version = "0.3.0",
+     about = "Quick tool for restoring iptables rules.",
+     long_about = None
+)]
 struct Args {
     #[arg(short, long, default_value = "/etc/iptables/iptables.rules")]
     rules_file: String,

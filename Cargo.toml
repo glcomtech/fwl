@@ -1,11 +1,11 @@
 [package]
 name = "fwl"
-version = "0.2.1"
+version = "0.3.0"
 authors = ["Andrew Kushyk <akushyk799 at gmail.com>"]
 edition = "2024"
 description = "fwl - quick tool for restoring iptables rules"
 license = "AGPL-3.0-or-later"
-repository = "https://gitlab.com/git-user-cpp/jsdb"
+repository = "https://github.com/glcomtech/fwl"
 
 [dependencies]
 clap = { version = "4.5", features = ["derive"] }

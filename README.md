@@ -3,27 +3,27 @@ Quick tool for restoring iptables rules.
 
 ---
 
-![GitHub Release](https://img.shields.io/github/v/release/gnulintech/fwl?style=flat-square&logo=github)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/gnulintech/fwl/rust.yml?style=flat-square&logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/gnulintech/fwl?style=flat-square&logo=github)
+![GitHub Release](https://img.shields.io/github/v/release/glcomtech/fwl?style=flat-square&logo=github)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/glcomtech/fwl/rust.yml?style=flat-square&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/glcomtech/fwl?style=flat-square&logo=github)
 
-![GitHub contributors](https://img.shields.io/github/contributors/gnulintech/fwl?style=flat-square&logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/gnulintech/fwl?style=flat-square&logo=github)
+![GitHub contributors](https://img.shields.io/github/contributors/glcomtech/fwl?style=flat-square&logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/glcomtech/fwl?style=flat-square&logo=github)
 
-![GitHub License](https://img.shields.io/github/license/gnulintech/fwl?style=flat-square&logo=github)
+![GitHub License](https://img.shields.io/github/license/glcomtech/fwl?style=flat-square&logo=github)
 
 ---
 
 ## How to use
 
-To use the program download the latest version here: https://github.com/gnulintech/fwl/tree/main/releases
+To use the program download the latest version here: https://github.com/glcomtech/fwl/releases
 
 Unpack the archive:
 ```
-tar -xzf fwl_0_1_0.tar.gz
+tar -xzf fwl_0.2.1_x86_x64.tar.gz
 ```
 Then enter the program directory:
 ```
-cd fwl_0_1_0
+cd fwl_0.2.1_x86_x64
 ```
 And finally run the program:
 ```
@@ -52,7 +52,7 @@ cargo build
 ---
 
 ## Documentation
-https://gnulintech.github.io/fwl/fwl/index.html
+https://glcomtech.github.io/fwl/fwl/index.html
 
 ---
 
